@@ -13,7 +13,10 @@ A simple and clean React app that fetches and displays random cat facts from a p
 
 ---
 ## 🛠 Folder Structure
+<<<<<<< HEAD
 ```bash
+=======
+>>>>>>> e96e31a (comments added)
 src/
 ├── components/
 │ └── CatFactCard.jsx # UI component to display facts
@@ -23,7 +26,11 @@ src/
 ├── index.css # Tailwind CSS config
 └── main.jsx # React entry point
 
+<<<<<<< HEAD
 ```
+=======
+
+>>>>>>> e96e31a (comments added)
 ---
 
 ## 🚀 Getting Started
@@ -59,4 +66,8 @@ http://localhost:5173
 👤 Author
 Kartik Rathod
 rathodkartik293@gmail.com
+<<<<<<< HEAD
 +91 9307091361
+=======
++91 9307091361
+>>>>>>> e96e31a (comments added)
